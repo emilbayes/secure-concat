@@ -1,0 +1,34 @@
+{
+  "name": "secure-concat",
+  "version": "0.0.0",
+  "description": " Yet another concat-stream, but cleans it's internal state after use",
+  "main": "index.js",
+  "dependencies": {
+    "nanoassert": "^1.1.0",
+    "to2": "^1.0.0"
+  },
+  "devDependencies": {
+    "tape": "^4.8.0"
+  },
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilbayes/secure-concat.git"
+  },
+  "keywords": [
+    "concat",
+    "concat-stream",
+    "buffer",
+    "secure",
+    "clean",
+    "memory"
+  ],
+  "author": "Emil Bay <github@tixz.dk>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emilbayes/secure-concat/issues"
+  },
+  "homepage": "https://github.com/emilbayes/secure-concat#readme"
+}
