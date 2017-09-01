@@ -1,7 +1,7 @@
 {
   "name": "secure-concat",
   "version": "1.0.0",
-  "description": " Yet another concat-stream, but cleans it's internal state after use",
+  "description": " Yet another concat-stream, but cleans its internal state after use",
   "main": "index.js",
   "dependencies": {
     "nanoassert": "^1.1.0",

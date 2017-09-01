@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/emilbayes/secure-concat.svg?branch=master)](https://travis-ci.org/emilbayes/secure-concat)
 
-> Yet another `concat-stream`, but cleans it's internal state after use
+> Yet another `concat-stream`, but cleans its internal state after use
 
 ## Usage
 
