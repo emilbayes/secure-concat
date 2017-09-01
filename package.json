@@ -1,6 +1,6 @@
 {
   "name": "secure-concat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": " Yet another concat-stream, but cleans its internal state after use",
   "main": "index.js",
   "dependencies": {
